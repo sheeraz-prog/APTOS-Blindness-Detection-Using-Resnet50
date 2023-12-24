@@ -1,4 +1,3 @@
-# APTOS-Blindness-Detection-
 ## APTOS Blindness Detection Using Resnet50
 APTOS Blindness Detection is the project I have done during my Artificial Intelligence internship at CodeClause.
 
@@ -13,3 +12,7 @@ APTOS Blindness Detection is the project I have done during my Artificial Intell
 
 📝 **Description:**
 Implemented a deep learning model using the ResNet50 architecture to classify diabetic retinopathy levels based on eye images. Trained the model on the APTOS Blindness Detection dataset, achieving robust performance.
+
+Feel free to explore each project for detailed code. Contributions and feedback are welcome!
+
+#MachineLearning #DeepLearning #Regression #Classification #DataScience
